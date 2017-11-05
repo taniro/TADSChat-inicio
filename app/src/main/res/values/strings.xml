@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TADSChat</string>
+    <string name="enviar">Enviar</string>
+    <string name="sair">Sair</string>
+</resources>
